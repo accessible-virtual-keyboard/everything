@@ -1,0 +1,18 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/accessible-virtual-keyboard/android.git
+[submodule "inputdrivers"]
+	path = inputdrivers
+	url = https://github.com/accessible-virtual-keyboard/inputdrivers.git
+[submodule "outputdrivers"]
+	path = outputdrivers
+	url = https://github.com/accessible-virtual-keyboard/outputdrivers.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/accessible-virtual-keyboard/webapp.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/accessible-virtual-keyboard/backend.git
+[submodule "layout-optimization-research"]
+	path = layout-optimization-research
+	url = https://github.com/accessible-virtual-keyboard/layout-optimization-research.git
